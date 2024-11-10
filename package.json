@@ -1,0 +1,11 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: there is no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nithin James"
+}
